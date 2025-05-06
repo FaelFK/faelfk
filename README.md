@@ -12,9 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faelfk&show_icons=true" />
 </picture>
 
-
-
-
+![Snake animation](https://github.com/FaelFK)
 
 - 🔭 Trabalho com Front-end e Banco de Dados
 - 🌱 Atualmente cursando bacharelado em Engenharia de Software e estudando varias linguagens por fora
